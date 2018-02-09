@@ -1,0 +1,1 @@
+The purpose of this repo is to synchronize development for gamecube controller modding, specifically acting as a central repository to store various arduino(AVR) and ARM tools and utilities.
